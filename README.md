@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @LHJapon
 - 👀 I’m interested in circuit design
-- 🌱 I’m currently learning electronics and communications engineering
+- 🌱 I’m currently learning electronics engineering
 - 💞️ I’m looking to collaborate on course projects
 - 📫 How to reach me
 
